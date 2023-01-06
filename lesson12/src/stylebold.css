@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "Muller Bold";
+    src:url('../fonts/MullerBold.woff') format("woff");
+    src:url('../fonts/MullerBold.woff2') format("woff2");
+    font-weight:bolder;
+    font-style: normal;
+}
